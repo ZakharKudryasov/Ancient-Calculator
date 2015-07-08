@@ -122,10 +122,11 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="ancients\264652-autosomal-o37-results.csv.gz" />
     <None Include="ancients\Ajvide58.gz" />
     <None Include="ancients\Altai_Neanderthal.gz" />
     <None Include="ancients\AusAboriginal.gz" />
+    <None Include="ancients\Bot15.gz" />
+    <None Include="ancients\Bot17.gz" />
     <None Include="ancients\BR1.gz" />
     <None Include="ancients\BR2.gz" />
     <None Include="ancients\Clovis_Anzick-1.gz" />
@@ -150,6 +151,33 @@
     <None Include="ancients\NE6.gz" />
     <None Include="ancients\NE7.gz" />
     <None Include="ancients\Palaeo-Eskimo.gz" />
+    <None Include="ancients\RISE00.gz" />
+    <None Include="ancients\RISE150.gz" />
+    <None Include="ancients\RISE174.gz" />
+    <None Include="ancients\RISE395.gz" />
+    <None Include="ancients\RISE479.gz" />
+    <None Include="ancients\RISE493.gz" />
+    <None Include="ancients\RISE495.gz" />
+    <None Include="ancients\RISE496.gz" />
+    <None Include="ancients\RISE497.gz" />
+    <None Include="ancients\RISE499.gz" />
+    <None Include="ancients\RISE500.gz" />
+    <None Include="ancients\RISE502.gz" />
+    <None Include="ancients\RISE503.gz" />
+    <None Include="ancients\RISE504.gz" />
+    <None Include="ancients\RISE505.gz" />
+    <None Include="ancients\RISE509.gz" />
+    <None Include="ancients\RISE511.gz" />
+    <None Include="ancients\RISE523.gz" />
+    <None Include="ancients\RISE548.gz" />
+    <None Include="ancients\RISE552.gz" />
+    <None Include="ancients\RISE569.gz" />
+    <None Include="ancients\RISE577.gz" />
+    <None Include="ancients\RISE601.gz" />
+    <None Include="ancients\RISE602.gz" />
+    <None Include="ancients\RISE94.gz" />
+    <None Include="ancients\RISE97.gz" />
+    <None Include="ancients\RISE98.gz" />
     <None Include="ancients\Ust-Ishim.gz" />
     <None Include="ancients\Vi33.16_Neanderthal.gz" />
     <None Include="ancients\Vi33.25_Neanderthal.gz" />

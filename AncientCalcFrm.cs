@@ -68,6 +68,36 @@ namespace Ancient_Calculator
             cbAncientList.Items.Add("Vi33.25 Neanderthal");
             cbAncientList.Items.Add("Vi33.26 Neanderthal");
 
+            cbAncientList.Items.Add("RISE00");
+            cbAncientList.Items.Add("RISE150");
+            cbAncientList.Items.Add("RISE174");
+            cbAncientList.Items.Add("RISE395");
+            cbAncientList.Items.Add("RISE479");
+            cbAncientList.Items.Add("RISE493");
+            cbAncientList.Items.Add("RISE495");
+            cbAncientList.Items.Add("RISE496");
+            cbAncientList.Items.Add("RISE497");
+            cbAncientList.Items.Add("RISE499");
+            cbAncientList.Items.Add("RISE500");
+            cbAncientList.Items.Add("RISE502");
+            cbAncientList.Items.Add("RISE503");
+            cbAncientList.Items.Add("RISE504");
+            cbAncientList.Items.Add("RISE505");
+            cbAncientList.Items.Add("RISE509");
+            cbAncientList.Items.Add("RISE511");
+            cbAncientList.Items.Add("RISE523");
+            cbAncientList.Items.Add("RISE548");
+            cbAncientList.Items.Add("RISE552");
+            cbAncientList.Items.Add("RISE569");
+            cbAncientList.Items.Add("RISE577");
+            cbAncientList.Items.Add("RISE601");
+            cbAncientList.Items.Add("RISE602");
+            cbAncientList.Items.Add("RISE94");
+            cbAncientList.Items.Add("RISE97");
+            cbAncientList.Items.Add("RISE98");
+            cbAncientList.Items.Add("Bot15");
+            cbAncientList.Items.Add("Bot17");
+
             cbAncientList.SelectedIndex = 0;
         }
 
@@ -223,6 +253,36 @@ namespace Ancient_Calculator
                 case 28: bytes = Ancient_Calculator.Properties.Resources.Vi33_16_Neanderthal; break;
                 case 29: bytes = Ancient_Calculator.Properties.Resources.Vi33_25_Neanderthal; break;
                 case 30: bytes = Ancient_Calculator.Properties.Resources.Vi33_26_Neanderthal; break;
+                case 31: bytes = Ancient_Calculator.Properties.Resources.RISE00; break;
+                case 32: bytes = Ancient_Calculator.Properties.Resources.RISE150; break;
+                case 33: bytes = Ancient_Calculator.Properties.Resources.RISE174; break;
+                case 34: bytes = Ancient_Calculator.Properties.Resources.RISE395; break;
+                case 35: bytes = Ancient_Calculator.Properties.Resources.RISE479; break;
+                case 36: bytes = Ancient_Calculator.Properties.Resources.RISE493; break;
+                case 37: bytes = Ancient_Calculator.Properties.Resources.RISE495; break;
+                case 38: bytes = Ancient_Calculator.Properties.Resources.RISE496; break;
+                case 39: bytes = Ancient_Calculator.Properties.Resources.RISE497; break;
+                case 40: bytes = Ancient_Calculator.Properties.Resources.RISE499; break;
+                case 41: bytes = Ancient_Calculator.Properties.Resources.RISE500; break;
+                case 42: bytes = Ancient_Calculator.Properties.Resources.RISE502; break;
+                case 43: bytes = Ancient_Calculator.Properties.Resources.RISE503; break;
+                case 44: bytes = Ancient_Calculator.Properties.Resources.RISE504; break;
+                case 45: bytes = Ancient_Calculator.Properties.Resources.RISE505; break;
+                case 46: bytes = Ancient_Calculator.Properties.Resources.RISE509; break;
+                case 47: bytes = Ancient_Calculator.Properties.Resources.RISE511; break;
+                case 48: bytes = Ancient_Calculator.Properties.Resources.RISE523; break;
+                case 49: bytes = Ancient_Calculator.Properties.Resources.RISE548; break;
+                case 50: bytes = Ancient_Calculator.Properties.Resources.RISE552; break;
+                case 51: bytes = Ancient_Calculator.Properties.Resources.RISE569; break;
+                case 52: bytes = Ancient_Calculator.Properties.Resources.RISE577; break;
+                case 53: bytes = Ancient_Calculator.Properties.Resources.RISE601; break;
+                case 54: bytes = Ancient_Calculator.Properties.Resources.RISE602; break;
+                case 55: bytes = Ancient_Calculator.Properties.Resources.RISE94; break;
+                case 56: bytes = Ancient_Calculator.Properties.Resources.RISE97; break;
+                case 57: bytes = Ancient_Calculator.Properties.Resources.RISE98; break;
+                case 58: bytes = Ancient_Calculator.Properties.Resources.Bot15; break;
+                case 59: bytes = Ancient_Calculator.Properties.Resources.Bot17; break;
+
                 default:
                     bytes = new byte[] { };
                     break;

@@ -211,4 +211,91 @@
   <data name="Vi33_26_Neanderthal" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\ancients\Vi33.26_Neanderthal.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="Bot15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\Bot15.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Bot17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\Bot17.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE00" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE00.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE150" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE150.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE174" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE174.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE395" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE395.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE479" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE479.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE493" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE493.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE495" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE495.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE496" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE496.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE497" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE497.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE499" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE499.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE500.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE502" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE502.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE503" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE503.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE504" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE504.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE505" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE505.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE509" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE509.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE511" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE511.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE523" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE523.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE548" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE548.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE552" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE552.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE569" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE569.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE577" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE577.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE601" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE601.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE602" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE602.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE94" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE94.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE97" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE97.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RISE98" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\ancients\RISE98.gz;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
